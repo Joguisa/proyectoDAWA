@@ -1,10 +1,11 @@
-import { Component } from '@angular/core';
-
+import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-contacto-gb',
   templateUrl: './contacto-gb.component.html',
   styleUrls: ['./contacto-gb.component.css']
 })
-export class ContactoGBComponent {
+export class ContactoGBComponent implements OnInit{
 
+  ngOnInit(): void {
+  }
 }

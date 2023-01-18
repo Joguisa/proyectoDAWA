@@ -1,8 +1,5 @@
-.container {
-  display: flex; /* para poder colocar ambos divs uno al lado del otro */
-  justify-content: center;
-  height: 100%;
-  align-items: center;
+.fondo {
+  background-image: url(https://www.virachi.es/wp-content/uploads/2019/11/leaves.png);
 }
 
 .left-section {
